@@ -3,7 +3,7 @@ import socket
 import threading
 import logging
 import RPi.GPIO as GPIO
-# change this to the values from MCS web console
+
 DEVICE_INFO = {
     'device_id' : 'DKepH890',
     'device_key' : 'IYpvcK0xcnD04947'
